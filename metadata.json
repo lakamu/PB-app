@@ -1,0 +1,7 @@
+{
+  "name": "Pinjam-Barang Pro",
+  "description": "A professional inventory and borrowing management application with history tracking and item categorization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
